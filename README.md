@@ -12,3 +12,5 @@ Following are the files that will be provided in the dataset -
 Train.csv  - This file contains all the above mentioned columns. You are expected to train your models on this file.
 Test.csv  - This file contains all the above mentioned columns except “P” column. You have to predict this column for each records given in this file.
 Sample_submission.csv  - This file consists of sample submissions. Your submission should be in exact same format.
+
+Achieved 80% accuracy with my implementation.
